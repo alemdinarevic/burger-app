@@ -7,7 +7,7 @@ const layout = (props) => (
 	<Aux>
 		<div>
 			Toolbar,
-			Sidedrawer,
+			Sidebar, 
 			Backdrop
 		</div>
 		<main className='Content'>
