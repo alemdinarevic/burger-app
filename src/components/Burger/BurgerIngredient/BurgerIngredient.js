@@ -1,11 +1,10 @@
 import React, {Component} from 'react';
 import PropTypes from 'prop-types';
 
-import styles from './BurgerIngredient.css';
+import './BurgerIngredient.css';
 
 class BurgerIngredient extends Component {
 	render() {
-
 		// const mystyle = {
 			
 		// 		width: '80%',

@@ -4,7 +4,7 @@ import './Button.css';
 
 const button = (props) => {
 	let buttonClass = ['Button', props.btnType].join(' '); // join class Button and props.btnType
-	console.log(buttonClass);
+	//console.log(buttonClass);
 	return (
 		<button 
 			className={buttonClass}

@@ -16,7 +16,7 @@ const burger = (props) => {
 	if (transormedIngredients.length === 0) {
 		transormedIngredients = <p>Please start adding new ingredients...</p>;
 	}
-	console.log(transormedIngredients);
+	//console.log(transormedIngredients);
   return (
   	<div className='Burger'>
 	 	  <BurgerIngredient type='bread-top' />
